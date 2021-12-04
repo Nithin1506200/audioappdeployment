@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f65072c.chunk.css",
+    "main.js": "/static/js/main.951730ac.chunk.js",
+    "main.js.map": "/static/js/main.951730ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d3f653c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d3f653c1.js.map",
+    "static/js/2.943f96b6.chunk.js": "/static/js/2.943f96b6.chunk.js",
+    "static/js/2.943f96b6.chunk.js.map": "/static/js/2.943f96b6.chunk.js.map",
+    "static/js/3.dc0645a2.chunk.js": "/static/js/3.dc0645a2.chunk.js",
+    "static/js/3.dc0645a2.chunk.js.map": "/static/js/3.dc0645a2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2f65072c.chunk.css.map": "/static/css/main.2f65072c.chunk.css.map",
+    "static/js/2.943f96b6.chunk.js.LICENSE.txt": "/static/js/2.943f96b6.chunk.js.LICENSE.txt",
+    "static/media/add.174a0147.png": "/static/media/add.174a0147.png",
+    "static/media/clock.7a4522e8.png": "/static/media/clock.7a4522e8.png",
+    "static/media/longpop.8fe3317f.wav": "/static/media/longpop.8fe3317f.wav",
+    "static/media/msgpop.e2e956ce.mp3": "/static/media/msgpop.e2e956ce.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f653c1.js",
+    "static/js/2.943f96b6.chunk.js",
+    "static/css/main.2f65072c.chunk.css",
+    "static/js/main.951730ac.chunk.js"
+  ]
+}
